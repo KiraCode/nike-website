@@ -28,6 +28,16 @@ This project replicates a modern e-commerce product showcase with a sleek, styli
 ## 📂 Folder Structure
 
 nike-limited-edition-ui/
-<pre> nike-limited-edition-ui/ ├── index.html ├── style.css ├── images/ │ ├── nike-logo-0.png │ ├── air-max-1-lx-shoes.png │ ├── air-peg-2k5-shoes.png │ ├── lunar-roam-shoes.png │ ├── nocta-glide-shoes.png │ └── terminator-high-shoes.png └── README.md </pre>
+<pre> nike-limited-edition-ui/ 
+├── index.html
+├── style.css
+├── images/
+│ ├── nike-logo-0.png
+│ ├── air-max-1-lx-shoes.png
+│ ├── air-peg-2k5-shoes.png
+│ ├── lunar-roam-shoes.png
+│ ├── nocta-glide-shoes.png
+│ └── terminator-high-shoes.png
+└── README.md </pre>
 
 ![Nike UI Preview](./images/websitePreview.png) <!-- Replace with your actual image path -->
