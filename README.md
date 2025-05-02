@@ -25,6 +25,7 @@ This project replicates a modern e-commerce product showcase with a sleek, styli
 ## 🚀 Demo
 
 🔗 [Live Demo](https://kiracode.github.io/nike-website/) <!-- Replace with your live demo link -->
+
 ## 📂 Folder Structure
 
 nike-limited-edition-ui/
@@ -39,5 +40,7 @@ nike-limited-edition-ui/
 │ ├── nocta-glide-shoes.png
 │ └── terminator-high-shoes.png
 └── README.md </pre>
+
+## 📸 Preview
 
 ![Nike UI Preview](./images/websitePreview.png) <!-- Replace with your actual image path -->
